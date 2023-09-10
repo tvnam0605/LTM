@@ -1,0 +1,7 @@
+Z:\2115239_TranVanNam_Lab2\Client\Client\bin\Debug\Client.exe.config
+Z:\2115239_TranVanNam_Lab2\Client\Client\bin\Debug\Client.exe
+Z:\2115239_TranVanNam_Lab2\Client\Client\bin\Debug\Client.pdb
+Z:\2115239_TranVanNam_Lab2\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+Z:\2115239_TranVanNam_Lab2\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+Z:\2115239_TranVanNam_Lab2\Client\Client\obj\Debug\Client.exe
+Z:\2115239_TranVanNam_Lab2\Client\Client\obj\Debug\Client.pdb

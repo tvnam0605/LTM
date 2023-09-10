@@ -1,0 +1,7 @@
+Z:\2115239_TranVanNam_Lab2\Server\Server\bin\Debug\Server.exe.config
+Z:\2115239_TranVanNam_Lab2\Server\Server\bin\Debug\Server.exe
+Z:\2115239_TranVanNam_Lab2\Server\Server\bin\Debug\Server.pdb
+Z:\2115239_TranVanNam_Lab2\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+Z:\2115239_TranVanNam_Lab2\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+Z:\2115239_TranVanNam_Lab2\Server\Server\obj\Debug\Server.exe
+Z:\2115239_TranVanNam_Lab2\Server\Server\obj\Debug\Server.pdb
