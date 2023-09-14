@@ -1,0 +1,12 @@
+﻿EmployeeID: 12345
+LastName: Tran
+FirstName: Van Nam
+YearsService: 12
+Salary: 1500000
+------------------------------
+EmployeeID: 12345
+LastName: Pham
+FirstName: Anh Quan
+YearsService: 10
+Salary: 100000
+------------------------------
