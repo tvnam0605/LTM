@@ -1,0 +1,11 @@
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Client\bin\Debug\Client.exe.config
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Client\bin\Debug\Client.exe
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Client\bin\Debug\Client.pdb
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Client\bin\Debug\Share.exe
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Client\bin\Debug\Share.pdb
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Client\bin\Debug\Share.exe.config
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Client\obj\Debug\Client.csproj.CopyComplete
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Client\obj\Debug\Client.exe
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Client\obj\Debug\Client.pdb

@@ -1,0 +1,12 @@
+﻿EmployeeID: 1
+LastName: Tran
+FirstName: Van Nam
+YearsService: 12
+Salary: 35000
+------------------------------
+EmployeeID: 12345
+LastName: Tran
+FirstName: Van Nam
+YearsService: 15
+Salary: 100000
+------------------------------

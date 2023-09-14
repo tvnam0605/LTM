@@ -1,0 +1,7 @@
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Share\bin\Debug\Share.exe.config
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Share\bin\Debug\Share.exe
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Share\bin\Debug\Share.pdb
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Share\obj\Debug\Share.csprojAssemblyReference.cache
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Share\obj\Debug\Share.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Share\obj\Debug\Share.exe
+D:\LapTrinhMang\2115239_TranVanNam_Lab4\ThongTinNhanVien_UDP\Share\obj\Debug\Share.pdb
