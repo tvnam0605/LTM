@@ -1,0 +1,6 @@
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\Client\bin\Debug\Client.exe.config
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\Client\bin\Debug\Client.exe
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\Client\bin\Debug\Client.pdb
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\Client\obj\Debug\Client.exe
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\Client\obj\Debug\Client.pdb

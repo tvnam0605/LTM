@@ -1,0 +1,8 @@
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\UDPServer\bin\Debug\UDPServer.exe.config
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\UDPServer\bin\Debug\UDPServer.exe
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\UDPServer\bin\Debug\UDPServer.pdb
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\UDPServer\obj\Debug\UDPServer.csproj.AssemblyReference.cache
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\UDPServer\obj\Debug\UDPServer.csproj.SuggestedBindingRedirects.cache
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\UDPServer\obj\Debug\UDPServer.csproj.CoreCompileInputs.cache
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\UDPServer\obj\Debug\UDPServer.exe
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\UDPServer\obj\Debug\UDPServer.pdb

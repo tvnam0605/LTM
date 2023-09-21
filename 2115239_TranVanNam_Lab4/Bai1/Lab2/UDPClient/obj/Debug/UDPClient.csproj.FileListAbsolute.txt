@@ -1,0 +1,7 @@
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\UDPClient\bin\Debug\UDPClient.exe.config
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\UDPClient\bin\Debug\UDPClient.exe
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\UDPClient\bin\Debug\UDPClient.pdb
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\UDPClient\obj\Debug\UDPClient.csprojAssemblyReference.cache
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\UDPClient\obj\Debug\UDPClient.csproj.CoreCompileInputs.cache
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\UDPClient\obj\Debug\UDPClient.exe
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\UDPClient\obj\Debug\UDPClient.pdb

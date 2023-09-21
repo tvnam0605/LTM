@@ -1,0 +1,7 @@
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\Server\obj\Debug\Server.csprojAssemblyReference.cache
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\Server\bin\Debug\Server.exe.config
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\Server\bin\Debug\Server.exe
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\Server\bin\Debug\Server.pdb
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\Server\obj\Debug\Server.exe
+Z:\LTM-main\2115239_TranVanNam_Lab4\Bai1\Lab2\Server\obj\Debug\Server.pdb
