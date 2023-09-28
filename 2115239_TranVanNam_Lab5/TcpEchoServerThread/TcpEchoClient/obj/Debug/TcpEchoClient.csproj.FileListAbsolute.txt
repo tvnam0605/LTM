@@ -1,0 +1,6 @@
+D:\LapTrinhMang\TcpEchoServerThread\TcpEchoClient\bin\Debug\TcpEchoClient.exe.config
+D:\LapTrinhMang\TcpEchoServerThread\TcpEchoClient\bin\Debug\TcpEchoClient.exe
+D:\LapTrinhMang\TcpEchoServerThread\TcpEchoClient\bin\Debug\TcpEchoClient.pdb
+D:\LapTrinhMang\TcpEchoServerThread\TcpEchoClient\obj\Debug\TcpEchoClient.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\TcpEchoServerThread\TcpEchoClient\obj\Debug\TcpEchoClient.exe
+D:\LapTrinhMang\TcpEchoServerThread\TcpEchoClient\obj\Debug\TcpEchoClient.pdb

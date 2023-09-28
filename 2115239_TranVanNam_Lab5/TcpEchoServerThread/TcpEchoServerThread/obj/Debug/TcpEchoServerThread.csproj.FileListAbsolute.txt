@@ -1,0 +1,11 @@
+D:\LapTrinhMang\TcpEchoServerThread\TcpEchoServerThread\obj\Debug\TcpEchoServerThread.csprojAssemblyReference.cache
+D:\LapTrinhMang\TcpEchoServerThread\TcpEchoServerThread\obj\Debug\TcpEchoServerThread.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\TcpEchoServerThread\TcpEchoServerThread\bin\Debug\TcpEchoServerThread.exe.config
+D:\LapTrinhMang\TcpEchoServerThread\TcpEchoServerThread\bin\Debug\TcpEchoServerThread.exe
+D:\LapTrinhMang\TcpEchoServerThread\TcpEchoServerThread\bin\Debug\TcpEchoServerThread.pdb
+D:\LapTrinhMang\TcpEchoServerThread\TcpEchoServerThread\bin\Debug\IProtocol.exe
+D:\LapTrinhMang\TcpEchoServerThread\TcpEchoServerThread\bin\Debug\IProtocol.pdb
+D:\LapTrinhMang\TcpEchoServerThread\TcpEchoServerThread\bin\Debug\IProtocol.exe.config
+D:\LapTrinhMang\TcpEchoServerThread\TcpEchoServerThread\obj\Debug\TcpEchoServerThread.csproj.CopyComplete
+D:\LapTrinhMang\TcpEchoServerThread\TcpEchoServerThread\obj\Debug\TcpEchoServerThread.exe
+D:\LapTrinhMang\TcpEchoServerThread\TcpEchoServerThread\obj\Debug\TcpEchoServerThread.pdb

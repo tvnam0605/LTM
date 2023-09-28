@@ -1,0 +1,7 @@
+D:\LapTrinhMang\TcpEchoServerThread\IProtocol\bin\Debug\IProtocol.exe.config
+D:\LapTrinhMang\TcpEchoServerThread\IProtocol\bin\Debug\IProtocol.exe
+D:\LapTrinhMang\TcpEchoServerThread\IProtocol\bin\Debug\IProtocol.pdb
+D:\LapTrinhMang\TcpEchoServerThread\IProtocol\obj\Debug\IProtocol.csprojAssemblyReference.cache
+D:\LapTrinhMang\TcpEchoServerThread\IProtocol\obj\Debug\IProtocol.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\TcpEchoServerThread\IProtocol\obj\Debug\IProtocol.exe
+D:\LapTrinhMang\TcpEchoServerThread\IProtocol\obj\Debug\IProtocol.pdb
