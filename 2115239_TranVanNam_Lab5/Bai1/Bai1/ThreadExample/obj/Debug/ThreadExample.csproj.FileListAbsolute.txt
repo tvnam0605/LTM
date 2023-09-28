@@ -1,0 +1,7 @@
+Z:\2115239_TranVanNam_Lab5\Bai1\Bai1\ThreadExample\bin\Debug\ThreadExample.exe.config
+Z:\2115239_TranVanNam_Lab5\Bai1\Bai1\ThreadExample\bin\Debug\ThreadExample.exe
+Z:\2115239_TranVanNam_Lab5\Bai1\Bai1\ThreadExample\bin\Debug\ThreadExample.pdb
+Z:\2115239_TranVanNam_Lab5\Bai1\Bai1\ThreadExample\obj\Debug\ThreadExample.csprojAssemblyReference.cache
+Z:\2115239_TranVanNam_Lab5\Bai1\Bai1\ThreadExample\obj\Debug\ThreadExample.csproj.CoreCompileInputs.cache
+Z:\2115239_TranVanNam_Lab5\Bai1\Bai1\ThreadExample\obj\Debug\ThreadExample.exe
+Z:\2115239_TranVanNam_Lab5\Bai1\Bai1\ThreadExample\obj\Debug\ThreadExample.pdb
